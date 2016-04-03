@@ -50,7 +50,7 @@
   ],
 
   "rules": {
-
+    "indent": [2, 2],
 
     ////////// Possible Errors //////////
 
@@ -211,7 +211,8 @@
     "keyword-spacing": [2, {"overrides": {
         "if": {"after": false},
         "for": {"after": false},
-        "while": {"after": false}
+        "while": {"after": false},
+        "catch": {"after": false}
     }}],
 
     ////////// ECMAScript 6 //////////
