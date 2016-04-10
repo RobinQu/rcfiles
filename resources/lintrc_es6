@@ -159,7 +159,7 @@
 
 
     ////////// Stylistic Issues //////////
-    "indent": [2, 2],
+    "indent": [2, 2, {"SwitchCase": 1}],
     "brace-style": 2,               // enforce one true brace style (off by default)
     "camelcase": 1,                 // require camel case names
     "comma-spacing": 2,             // enforce spacing before and after comma
