@@ -211,8 +211,7 @@
     "keyword-spacing": [2, {"overrides": {
         "if": {"after": false},
         "for": {"after": false},
-        "while": {"after": false},
-        "catch": {"after": false}
+        "while": {"after": false}
     }}],
 
     ////////// ECMAScript 6 //////////

@@ -202,8 +202,7 @@
       "overrides": {
           "if": {"after": false},
           "for": {"after": false},
-          "while": {"after": false},
-          "catch": {"after": false}
+          "while": {"after": false}
         }
       }
     ],   // require a space after return, throw, and case
